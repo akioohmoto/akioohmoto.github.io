@@ -1,0 +1,62 @@
+{
+  "about": {
+    "name": "Akio Ohmoto",
+    "profession": "Aspiring web app developer and product marketer",
+    "education": "Computer Science and Communications major at Boston College",
+    "email": "akioohmoto@gmail.com",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/akio-ohmoto/",
+      "github": "https://github.com/akioohmoto"
+    },
+    "resumeLink": "https://cdn.glitch.global/7a0dcf92-387c-4b4b-a5de-41cab468e7c9/Akio%20Ohmoto_Resume%20(6).pdf?v=1741922912360",
+    "profileImage": "https://cdn.glitch.global/7a0dcf92-387c-4b4b-a5de-41cab468e7c9/Akio_Ohmoto.jpg?v=1741891706253",
+    "summary": "Hi there! My name is Akio, and I'm an aspiring web app developer and product marketer. I'm passionate about creating intuitive, user-friendly web applications that solve real-world problems while delivering a seamless user experience. I'm a computer science and communications major at Boston College, with a strong interest in both technology and storytelling. Whether I'm coding, designing, or strategizing, I thrive on collaboration, creativity, and continuous learning.",
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Java",
+      "React"
+    ]
+  },
+  "news": {
+    "title": "EagleRide at HackTheHeights 2024",
+    "date": "October 2024",
+    "image": "https://cdn.glitch.global/7a0dcf92-387c-4b4b-a5de-41cab468e7c9/9454E1AB-E75E-4358-B55B-34858B18DA48.JPG?v=1741899589493",
+    "description": "I recently had the exciting opportunity to participate in HackTheHeights 2024, Boston College's annual hackathon! Over the course of the event, I worked alongside peers to develop EagleRide, a ride-sharing platform designed specifically for BC students. During the hackathon, we focused on creating a user-friendly, secure, and efficient system for students to coordinate rides for trips, airport runs, and weekend outings. HackTheHeights was an amazing experience that pushed my problem-solving and development skills. We're working on refining EagleRide to bring it closer to reality!"
+  },
+  "projects": [
+    {
+      "title": "Pokécards",
+      "link": "pokecards.html",
+      "description": "An online platform for simplified Pokémon card battles. (In development)"
+    },
+    {
+      "title": "EagleRide",
+      "link": "eagleride.html",
+      "description": "EagleRide is a ride-sharing platform designed for Boston College students to coordinate and share rides efficiently. Whether you need a lift to the airport, a weekend trip, or just a ride to the city, EagleRide connects BC students with drivers heading in the same direction."
+    }
+  ],
+  "nav": [
+    {
+      "name": "about",
+      "link": "#about"
+    },
+    {
+      "name": "news",
+      "link": "#news"
+    },
+    {
+      "name": "projects",
+      "link": "#projects"
+    },
+    {
+      "name": "contact",
+      "link": "mailto:akioohmoto@gmail.com"
+    },
+    {
+      "name": "resume",
+      "link": "https://cdn.glitch.global/7a0dcf92-387c-4b4b-a5de-41cab468e7c9/Akio%20Ohmoto_Resume%20(6).pdf?v=1741922912360"
+    }
+  ]
+}
